@@ -1,7 +1,7 @@
 /*
 
  If you feel your use of code examples falls outside fair use or the
- permission given above, feel free to contact us at permissions@oreilly.com.
+ permission given above, feel free to contact us at 1714593434@outlook.com.
 
 */
 
